@@ -1,4 +1,4 @@
 # js-stack-from-scratch
 
-[![Build Status](https://img.shields.io/travis/chrisshaddad/js-stack-from-scratch.svg?style=flat-square)](https://travis-ci.org/chrisshaddad/js-stack-from-scratch)
-[![Coverage Status](https://img.shields.io/coveralls/chrisshaddad/js-stack-from-scratch.svg?style=flat-square)](https://coveralls.io/github/chrisshaddad/js-stack-from-scratch?branch=master)
+[![CircleCI](https://circleci.com/gh/chrisshaddad/js-stack-from-scratch.svg?style=shield)](https://circleci.com/gh/gh/chrisshaddad/js-stack-from-scratch)
+[![codecov](https://codecov.io/gh/gh/chrisshaddad/js-stack-from-scratch/branch/master/graph/badge.svg)](https://codecov.io/gh/gh/chrisshaddad/js-stack-from-scratch)
