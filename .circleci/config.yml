@@ -1,4 +1,4 @@
- version: 2
+  version: 2
   jobs:
     build:
       docker:
@@ -14,7 +14,7 @@
             # fallback to using the latest cache if no exact match is found
             - v1-dependencies-
 
-        - run: yarn install
+        - run: npm install
 
         - save_cache:
             paths:
@@ -22,4 +22,4 @@
             key: v1-dependencies-{{ checksum "package.json" }}
           
         # run tests
-        - run: yarn test && yarn run prod:build
+        - run: npm test && npm run prod:build
