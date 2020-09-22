@@ -1,0 +1,4 @@
+[options]
+suppress_comment= \\(.\\|\n\\)*\\$FlowFixMe
+[ignore]
+.*/node_modules/jss/.*
